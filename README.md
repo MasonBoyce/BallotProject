@@ -1,7 +1,4 @@
 # BallotProject
-Create A ballot with an inputted File
-
-USER MANUAL
 
 Description
 The program should be used to judge an election. Taking in an input file of multiple different candidates vying for an office. Then the program will tally up the votes and give out a winner as the output. Both the input and output of the program can be seen below.

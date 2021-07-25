@@ -16,13 +16,9 @@ The file will have the first line be the office that is being voted on. Second t
 EXAMPLE OF INPUT FILE
 
 	NBA Most Valuable Player Award
-	
 	3
-	
 	Lebron James;Lakers
-	
 	Stephen Curry;Warriors
-	
 	Frank Ntilikina;Knicks
 
 OUTPUT
